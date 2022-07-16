@@ -1,9 +1,10 @@
 {
     "manifest": {
-        "version": "1.3",
+        "version": "1.4",
         "name": "BreezeCord",
-        "author": "Akita#4785",
-        "updater": "https://raw.githubusercontent.com/WarishNet/BreezeCord/main/BreezeCord.json"
+        "author": "Arathain#4785 ",
+        "license": "GNU GPL v3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Aliucord-Themes\/main\/BreezeCord\/BreezeCord.json"
     },
     "background": {},
     "fonts": {
